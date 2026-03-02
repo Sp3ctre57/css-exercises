@@ -1,1 +1,12 @@
+.el1{
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman","sans-serif";
+}
+.el1#id1{
+background-color: #000000;
+color: #ffffff;   
+}
+.el1#id2{
+    background-color: yellow;
+}
 /* Add CSS Styling */
